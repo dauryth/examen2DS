@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Préstamos Jimenez</string>
+    <string name="title_activity_main">Préstamos Jimenez</string>
+    <string name="package_name">cr.ac.ucr.if0009.c5g184</string>
+    <string name="custom_url_scheme">cr.ac.ucr.if0009.c5g184</string>
+</resources>
